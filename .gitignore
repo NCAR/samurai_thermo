@@ -1,0 +1,17 @@
+*build/*
+lib/*
+bin/samurai
+*.tar.bz2
+xcode/*
+*.xcodeproj/*
+*.app/*
+.svn
+.DS_Store
+profile
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+cmake_install.cmake
+Makefile
+Info.plist
+install_manifest.txt
